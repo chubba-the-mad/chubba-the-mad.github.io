@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Having been the beneficiary of the internet and the contributions of billions of strangers in making their knowledge available for free, I decided to join them and begin publicly documenting projects and interests that I'm working on. I hope that somewhere in my ramblings, someone finds something useful.

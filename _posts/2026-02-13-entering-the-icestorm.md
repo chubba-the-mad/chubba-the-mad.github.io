@@ -1,0 +1,6 @@
+## Learning verilog with open source tools
+I've been wanting to refresh myself on FPGAs plus learn verilog as it has been years since I've used them and when I did last it was with VHDL. I came across an awesome website <https://nandland.com> by Russell Merrick and had to pick up his book "Getting Started With FPGAs" and buy the Go Board to follow along.
+
+I was annoyed first getting the environment setup having to work in Windows, using GUI focused proprietary tools, and having to email the companies to get a license to use the tools. As a software engineer long used to developing in linux and using gcc, it added some annoyance to the learning process and moved on to other projects. Recently I was looking into open source FPGA tools and came across Project IceStorm <https://clifford.at/icestorm>. Being able to use an open source tool chain for FPGA development reignited my interest.
+
+Having been the beneficiary of a large number of anonymous strangers random blog and forum posts in learning all kinds of things, I decided to pay it forward. I'll be making my notes and code available as I work through the Nandland book using IceStorm at <https://madwizardslibrary.com/nandland-icestorm/>
