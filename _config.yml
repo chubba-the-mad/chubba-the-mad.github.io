@@ -20,6 +20,9 @@ github_username: "chubba-the-mad"
 #########################################################################################
 theme: "minima"
 
+layouts_dir: resources/_layouts
+includes_dir: resources/_includes
+
 #rss: rss
 
 kramdown:
